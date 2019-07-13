@@ -1,0 +1,24 @@
+{
+  "name": "ushell-module-phantom",
+  "version": "1.0.0",
+  "description": "Unix module for phantom.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-phantom.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-phantom"
+  ],
+  "authors": [
+    "feizheng <1290657123@qq.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-phantom/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-phantom"
+}
